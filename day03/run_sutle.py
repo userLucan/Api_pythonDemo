@@ -18,7 +18,7 @@ with open(file_path,"wb") as f:
    HTMLTestRunner.HTMLTestRunner(stream = f,title="测试报告",description="测试结果详细信息").run(suite)
 #
 
-
+print('111111111111111111111111')
 
 
 
